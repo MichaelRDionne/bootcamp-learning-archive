@@ -24,4 +24,4 @@ The intended signal is not "bootcamp graduate." The intended signal is "clinical
 
 ## Archive Policy
 
-Older module repos are retained as learning history. They may be archived later after the current portfolio layer is reviewed, but they are not deleted.
+Older one-off module repos are retained as learning history and archived where appropriate. They are not deleted. Stronger portfolio/course signals remain visible separately, including cybersecurity, AI/ML, emotion-recognition, and selected Solidity work.
