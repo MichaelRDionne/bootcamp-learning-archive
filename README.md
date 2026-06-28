@@ -8,6 +8,12 @@ This repo keeps the learning history visible without letting dozens of individua
 
 My current work is focused on clinical AI workflow automation, healthcare operations tooling, and human-in-the-loop AI systems. Earlier coursework helped build the technical base: Python, notebooks, Solidity, FinTech analysis, cybersecurity fundamentals, and web prototypes.
 
+## Recruiter Quick Scan
+
+This repo is here to reduce noise. Older coursework is retained as learning history, while the current profile emphasizes active healthcare AI and workflow automation projects.
+
+The intended signal is not "bootcamp graduate." The intended signal is "clinical professional who built a technical foundation and is now applying it to practical AI workflow systems."
+
 ## Index
 
 - [FinTech and Python](index/fintech.md)
