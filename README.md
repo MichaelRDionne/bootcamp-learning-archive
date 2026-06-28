@@ -25,3 +25,5 @@ The intended signal is not "bootcamp graduate." The intended signal is "clinical
 ## Archive Policy
 
 Older one-off module repos are retained as learning history and archived where appropriate. They are not deleted. Stronger portfolio/course signals remain visible separately, including cybersecurity, AI/ML, emotion-recognition, and selected Solidity work.
+
+See `docs/bridge-to-current-work.md` for how this archive connects to the healthcare AI and workflow projects highlighted on the main profile.
