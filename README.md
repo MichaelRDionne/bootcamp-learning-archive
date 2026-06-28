@@ -1,0 +1,21 @@
+# Bootcamp Learning Archive
+
+Organized index of older coursework and project repositories.
+
+This repo keeps the learning history visible without letting dozens of individual course repositories dominate the GitHub profile. The original repositories remain available as historical artifacts.
+
+## Why This Exists
+
+My current work is focused on clinical AI workflow automation, healthcare operations tooling, and human-in-the-loop AI systems. Earlier coursework helped build the technical base: Python, notebooks, Solidity, FinTech analysis, cybersecurity fundamentals, and web prototypes.
+
+## Index
+
+- [FinTech and Python](index/fintech.md)
+- [ML and AI](index/ml-ai.md)
+- [Blockchain and Solidity](index/blockchain-solidity.md)
+- [Cybersecurity](index/cybersecurity.md)
+- [Web and App Experiments](index/web-apps.md)
+
+## Archive Policy
+
+Older module repos are retained as learning history. They may be archived later after the current portfolio layer is reviewed, but they are not deleted.
